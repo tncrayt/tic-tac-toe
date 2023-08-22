@@ -96,6 +96,3 @@ Contributions are welcome! If you have suggestions for improvements, find bugs, 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Bu README dosyası, projenizin teknik yönlerini ve oyunun nasıl oynandığını daha ayrıntılı bir şekilde açıklar ve kullanıcılarına oyunun nasıl başladığını ve oynandığını anlatır. Ayrıca, oyuna ait bir demo bağlantısı ve ekran görüntüleri de içerir.
